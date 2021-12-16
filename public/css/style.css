@@ -1,0 +1,215 @@
+.bg-body {
+    background-image: linear-gradient(to right, #5a83f8, #13d8ec);
+}
+.banner {
+    background-image: linear-gradient(to right, #5a83f8, #13d8ec);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.nav-item .nav-link {
+    color: white;
+    font-size: 18px;
+    font-family: "Oswald", sans-serif;
+    margin-right: 7px;
+}
+.kartu {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    border: 6px solid white;
+    border-radius: 10px;
+    width: 100%;
+    height: 600px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 10px 5px gray;
+}
+.profil {
+    width: 80%;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 23px;
+}
+.profil img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.judul {
+    margin-top: 100px;
+}
+.judul p {
+    text-align: center;
+    font-size: 16px;
+    font-family: "Roboto Slab", serif;
+}
+.judul h1 {
+    font-size: 55px;
+    font-family: "Roboto Slab", serif;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.judul .study {
+    font-size: 17px;
+    font-family: "Roboto Slab", serif;
+    text-align: left;
+    font-weight: bold;
+    line-height: 55px;
+}
+.isi p {
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgb(128, 128, 128, 0.9);
+}
+.icon {
+    margin-top: 20px;
+}
+.icon .btn {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.box {
+    width: 100%;
+    margin-top: 30px;
+    position: relative;
+    box-shadow: 20px 20px 15px gray;
+}
+.box img {
+    width: 100%;
+}
+.caption {
+    position: absolute;
+    border: none;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.3);
+    width: 80%;
+    height: 80%;
+    left: 50%;
+    top: 20px;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -o-transform: translate(-50%);
+}
+.caption:hover {
+    background-image: linear-gradient(
+        to right,
+        rgb(90, 131, 248, 0.6),
+        rgb(19, 216, 236, 0.7)
+    );
+}
+.caption a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.capt {
+    margin-top: 70px;
+}
+.kategori {
+    text-align: center;
+}
+.kategori h2 {
+    font-family: "Roboto Slab", serif;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.background {
+    background-image: linear-gradient(to right, #5a83f8, #13d8ec);
+    width: 100%;
+    height: 250px;
+}
+.gb-blog {
+    max-width: 320px;
+    margin: 0 auto;
+    padding-bottom: 13px;
+}
+.blog {
+    margin-top: 45px;
+}
+.text-judul {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.isi-blog {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+}
+.tentang-saya {
+    margin-top: 150px;
+    background-color: white;
+    box-shadow: 20px 20px 10px gray;
+}
+.judul-tentang h1 {
+    font-family: "Roboto Slab", serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+.judul-tentang p {
+    color: gray;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    margin-right: 11px;
+}
+.lar {
+    border: 4px solid #fbf6f6;
+    height: 20px;
+    border-radius: 100px;
+    margin-top: -5px;
+}
+.ahli {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 5px;
+}
+.bg-html {
+    background-image: linear-gradient(to right, #5a83f8, #71b0f4, #ffffff);
+}
+.bg-css {
+    background-image: linear-gradient(to right, #5a83f8, #d9f9f8, #ffffff);
+}
+.bg-php {
+    background-image: linear-gradient(to right, #5a83f8, #b5f0ee, #ffffff);
+}
+.bg-lar {
+    background-image: linear-gradient(to right, #5a83f8, #b0cdea, #ffffff);
+}
+.alamat {
+    font-size: 13px;
+    font-family: "Times New Roman", Times, serif;
+}
+.btn-submit:hover {
+    background-image: linear-gradient(to right, #5a83f8, #b0cdea);
+    color: black;
+}
+.tabel-blog {
+    margin-top: 30px;
+}
+.btn-blog {
+    margin-top: 60px;
+    font-family: "Times New Roman", Times, serif;
+}
+.login {
+    border: 2px solid white;
+    background-color: white;
+    width: 50%;
+    height: 100%;
+    box-shadow: 20px 20px 10px gray;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.login button {
+    margin-left: 40%;
+}
+.bl-akun {
+    text-align: center;
+    font-size: 13px;
+    text-decoration: none;
+}
